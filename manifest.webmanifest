@@ -1,0 +1,13 @@
+{
+  "name": "NPJ Rotations",
+  "short_name": "NPJ Rotations",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#224d9f",
+  "theme_color": "#224d9f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
